@@ -125,6 +125,16 @@
 
 ---
 
+### 🟩 Contribution Activity
+
+<div align="center">
+  <a href="https://github.com/yuvrajlaptop2008-byte">
+    <img src="https://ghchart.rshah.org/22d3ee/yuvrajlaptop2008-byte" alt="Yuvraj Thakur's GitHub Contribution Chart" width="100%" />
+  </a>
+</div>
+
+---
+
 ### 🚀 Featured Repositories & Creations
 
 <div align="center">
