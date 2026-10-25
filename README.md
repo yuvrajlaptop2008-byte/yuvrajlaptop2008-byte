@@ -1,12 +1,12 @@
 <div align="center">
 
   <!-- Cinematic Samurai Header Banner -->
-  <img src="./assets/banner.png" width="100%" alt="Yuvraj Thakur - Header Banner" style="border-radius: 12px;" />
+  <img src="https://raw.githubusercontent.com/yuvrajlaptop2008-byte/yuvrajlaptop2008-byte/main/assets/banner.png" width="100%" alt="Yuvraj Thakur - Header Banner" style="border-radius: 12px;" />
 
   <br/><br/>
 
   <!-- Developer Identity & Typing Headline -->
-  <img src="./assets/code_icon.png" width="44" height="44" alt="Code Icon" />
+  <img src="https://raw.githubusercontent.com/yuvrajlaptop2008-byte/yuvrajlaptop2008-byte/main/assets/code_icon.png" width="44" height="44" alt="Code Icon" />
   <h1>⚔️ Yuvraj Thakur</h1>
   
   <p>
@@ -43,7 +43,7 @@
   <tr>
     <td width="34%" valign="top" align="center">
       <br/>
-      <img src="./assets/ninja_cat.png" width="160" height="160" style="border-radius: 50%; border: 2px solid #22D3EE;" alt="Avatar" />
+      <img src="https://raw.githubusercontent.com/yuvrajlaptop2008-byte/yuvrajlaptop2008-byte/main/assets/ninja_cat.png" width="160" height="160" style="border-radius: 50%; border: 2px solid #22D3EE;" alt="Avatar" />
       <br/><br/>
       <b>Yuvraj Thakur</b><br/>
       <code>@yuvrajlaptop2008-byte</code>
@@ -56,7 +56,7 @@
       </p>
       <hr/>
       <p align="center">
-        <img src="./assets/octocat_shades.png" width="130" alt="Octocat Thug Life" />
+        <img src="https://raw.githubusercontent.com/yuvrajlaptop2008-byte/yuvrajlaptop2008-byte/main/assets/octocat_shades.png" width="130" alt="Octocat Thug Life" />
         <br/>
         <sub><i>"Lazy Senior Dev: Solve the whole problem with the least new code."</i></sub>
       </p>
