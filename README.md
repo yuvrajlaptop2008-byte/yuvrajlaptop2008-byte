@@ -62,14 +62,37 @@
       </p>
     </td>
     <td width="66%" valign="top">
-      <h3>⚡ About Me</h3>
-      <ul>
-        <li>🚀 <b>Crafting Autonomous AI Systems:</b> Creator of <a href="https://github.com/yuvrajlaptop2008-byte/ai-dev-agent"><b>ARIA (ai-dev-agent)</b></a> and <a href="https://github.com/yuvrajlaptop2008-byte/nova"><b>Nova</b></a> — engineering autonomous loops, tool execution, and local assistant gateways.</li>
-        <li>🛠️ <b>Developer Tooling Pioneer:</b> Built <a href="https://github.com/yuvrajlaptop2008-byte/readmeforge"><b>ReadmeForge</b></a> — a modern profile forge with Monaco IDE split-view, AST parsing, and direct GitHub sync.</li>
-        <li>🧠 <b>Core Engineering Philosophy:</b> <i>The best code is the code never written.</i> Relentlessly prioritizing correctness, high leverage, zero premature bloat, and minimal blast-radius diffs.</li>
-        <li>🌐 <b>Full-Stack Mastery:</b> Specializing in TypeScript, Next.js, React, Node.js, Python, Firebase, and scalable cloud architectures.</li>
-        <li>💬 <b>Let's Talk:</b> Agentic workflows, LLM reasoning pipelines, developer experience, and distributed web platforms.</li>
-      </ul>
+      <div align="center">
+        <a href="https://github.com/yuvrajlaptop2008-byte">
+          <img src="https://raw.githubusercontent.com/yuvrajlaptop2008-byte/yuvrajlaptop2008-byte/main/assets/about-me-telemetry.svg" width="100%" alt="About Me Animated Telemetry &amp; System Dashboard" />
+        </a>
+      </div>
+      <br/>
+      <div align="left">
+        <b>⚡ Core Architecture &amp; System Capabilities</b>
+        <ul>
+          <li>
+            🚀 <b>Autonomous AI Systems:</b> <code>[STATE: LOOP_ACTIVE]</code><br/>
+            Creator of <a href="https://github.com/yuvrajlaptop2008-byte/ai-dev-agent"><b>ARIA (ai-dev-agent)</b></a> &amp; <a href="https://github.com/yuvrajlaptop2008-byte/nova"><b>Nova</b></a> — engineering autonomous loops, multi-turn tool execution, isolated worktrees, and local assistant gateways.
+          </li>
+          <li>
+            🛠️ <b>Developer Tooling Pioneer:</b> <code>[SYNC: &lt;16MS_AST]</code><br/>
+            Built <a href="https://github.com/yuvrajlaptop2008-byte/readmeforge"><b>ReadmeForge</b></a> — a modern profile forge with Monaco IDE split-view, AST parsing, and direct GitHub sync.
+          </li>
+          <li>
+            🧠 <b>Core Engineering Philosophy:</b> <code>[RULE: LEAST_CODE]</code><br/>
+            <i>"The best code is the code never written."</i> Relentlessly prioritizing correctness, high leverage, zero premature bloat, and minimal blast-radius diffs.
+          </li>
+          <li>
+            🌐 <b>Full-Stack Mastery:</b> <code>[STACK: TS_NODE_GCP]</code><br/>
+            Specializing in TypeScript, Next.js, React, Node.js, Python, Firebase, and scalable cloud architectures.
+          </li>
+          <li>
+            💬 <b>Let's Talk:</b> <code>[GATEWAY: OPEN_RFC]</code><br/>
+            Agentic workflows, LLM reasoning pipelines, developer experience, and distributed web platforms.
+          </li>
+        </ul>
+      </div>
     </td>
   </tr>
 </table>
