@@ -1,0 +1,63 @@
+name: Profile Quality Check
+
+on:
+  push:
+    branches: [ main, audit-improvements ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Validate SVG XML & Local Asset Integrity
+        run: |
+          python -c '
+          import os, sys, re, xml.etree.ElementTree as ET
+
+          errors = []
+
+          # 1. Validate all SVG files in assets/
+          assets_dir = "assets"
+          if os.path.exists(assets_dir):
+              for file in os.listdir(assets_dir):
+                  if file.endswith(".svg"):
+                      file_path = os.path.join(assets_dir, file)
+                      try:
+                          ET.parse(file_path)
+                          print(f"✓ Valid SVG XML: {file_path}")
+                      except Exception as e:
+                          errors.append(f"Invalid XML in {file_path}: {e}")
+
+          # 2. Validate README.md exists and local references
+          if not os.path.exists("README.md"):
+              errors.append("README.md is missing!")
+          else:
+              with open("README.md", "r", encoding="utf-8") as f:
+                  content = f.read()
+
+              # Check local asset links
+              local_refs = re.findall(r"(?:src|href)=[\"'\'](?:\./)?(assets/[^\s\"'>]+)[\"'\']", content)
+              for ref in local_refs:
+                  clean_ref = ref.split("?")[0].split("#")[0]
+                  if not os.path.exists(clean_ref):
+                      errors.append(f"Referenced local file does not exist: {clean_ref}")
+                  else:
+                      print(f"✓ Verified local asset link: {clean_ref}")
+
+          if errors:
+              print("\n❌ Profile Check Failed:")
+              for err in errors:
+                  print(f"  - {err}")
+              sys.exit(1)
+          else:
+              print("\n✅ All Profile Quality Checks Passed!")
+          '
