@@ -10,6 +10,15 @@
   <br/><br/>
 
   <!-- ======================================================== -->
+  <!-- SUN-BREATHING FIGHTER HERO VISUAL                        -->
+  <!-- ======================================================== -->
+  <a href="https://github.com/yuvrajlaptop2008-byte">
+    <img src="https://raw.githubusercontent.com/yuvrajlaptop2008-byte/yuvrajlaptop2008-byte/main/assets/demon-slayer-tanjiro.jpg" width="360" alt="Demon Slayer Fighter" style="border-radius: 18px; border: 2.5px solid #EF4444; box-shadow: 0 0 35px rgba(239, 68, 68, 0.45);" />
+  </a>
+
+  <br/><br/>
+
+  <!-- ======================================================== -->
   <!-- 60FPS HARDWARE-ACCELERATED ANIMATED SVG HEADER          -->
   <!-- ======================================================== -->
   <a href="https://github.com/yuvrajlaptop2008-byte/readmeforge">
@@ -65,13 +74,9 @@
   <tr>
     <td width="36%" valign="top" align="center">
       <br/>
-      <!-- Avatar Stack: Demon Slayer & Night Coder Duo -->
+      <!-- Avatar: Demon Slayer Fighter -->
       <a href="https://github.com/yuvrajlaptop2008-byte">
-        <img src="https://raw.githubusercontent.com/yuvrajlaptop2008-byte/yuvrajlaptop2008-byte/main/assets/demon-slayer-tanjiro.jpg" width="135" height="135" style="border-radius: 50%; border: 3px solid #EF4444; object-fit: cover;" alt="Demon Slayer Tanjiro" />
-      </a>
-      &nbsp;
-      <a href="https://github.com/yuvrajlaptop2008-byte">
-        <img src="https://raw.githubusercontent.com/yuvrajlaptop2008-byte/yuvrajlaptop2008-byte/main/assets/night-coder-hoodie.png" width="135" height="135" style="border-radius: 50%; border: 3px solid #22D3EE; object-fit: cover;" alt="2 AM Night Coder" />
+        <img src="https://raw.githubusercontent.com/yuvrajlaptop2008-byte/yuvrajlaptop2008-byte/main/assets/demon-slayer-tanjiro.jpg" width="175" height="175" style="border-radius: 50%; border: 3.5px solid #EF4444; object-fit: cover; box-shadow: 0 0 25px rgba(239, 68, 68, 0.5);" alt="Demon Slayer Fighter" />
       </a>
       <br/><br/>
       <b>Yuvraj Thakur</b><br/>
