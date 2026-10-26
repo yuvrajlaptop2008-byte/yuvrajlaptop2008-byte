@@ -1,10 +1,10 @@
 <div align="center">
 
   <!-- ======================================================== -->
-  <!-- HERO BANNER: DEMON SLAYER x 2 AM NIGHT CODER x GENESIS   -->
+  <!-- ANIMATED DEVELOPER TERMINAL CARD                         -->
   <!-- ======================================================== -->
   <a href="https://github.com/yuvrajlaptop2008-byte/readmeforge">
-    <img src="https://raw.githubusercontent.com/yuvrajlaptop2008-byte/yuvrajlaptop2008-byte/main/assets/slayer-night-coder-banner.jpg" width="100%" alt="Yuvraj Thakur - Sun-Breathing Night Coder Banner" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.8);" />
+    <img src="https://raw.githubusercontent.com/yuvrajlaptop2008-byte/yuvrajlaptop2008-byte/main/assets/terminal_animated.svg" width="100%" alt="Yuvraj Thakur - Animated Developer Terminal" style="border-radius: 14px;" />
   </a>
 
   <br/><br/>
